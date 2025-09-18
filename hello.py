@@ -35,4 +35,4 @@ elif pilihan == "4":
     print("Hasil:", bagi(x, y))
 else:
     print("Pilihan tidak valid!")
-# Program ini menyediakan fungsi dasar kalkulator: tambah, kurang, kali, dan bagi.
+# Program ini menyediakan fungsi dasar kalkulator: tambah, kurang, kali, dan bagi. 
